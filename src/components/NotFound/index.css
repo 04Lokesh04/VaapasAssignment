@@ -1,0 +1,26 @@
+.failure-container{
+    background-color: transparent;
+    height: 250px;
+    width: 250px;
+    margin: 100px;
+    border-width: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.failure-heading{
+    color: powderblue;
+    font-size: 20px;
+    font-family: "Roboto";
+    margin-bottom: 15px;
+}
+
+.failure-para{
+    color: powderblue;
+    font-size: 20px;
+    font-family: "Roboto";
+    margin-bottom: 15px;
+}

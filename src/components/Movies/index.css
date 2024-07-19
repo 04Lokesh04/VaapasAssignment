@@ -1,0 +1,42 @@
+.Movie-container{
+    list-style-type: none;
+    background-color: rgb(32, 29, 29);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-width: 0px;
+    border-radius: 40px;
+}
+
+.image{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.Movie-heading{
+    color: rgb(254, 254, 254);
+    font-size: 18px;
+    font-family: 'Roboto';
+    margin-bottom: 10px;
+}
+
+.author{
+    color: rgb(255, 0, 0);
+    font-size: 15px;
+    font-family: "Roboto";
+    margin-bottom: 10px;
+}
+
+
+.rating{
+    color: gainsboro;
+    font-size: 12px;
+    font-family: "Roboto";
+    margin-bottom: 10px;
+}
